@@ -9,7 +9,7 @@ tags: [c# grammar]
 
 데이터를 저장할 수 있는 메모리 공간을 생성하는 것입니다.
 
-~~~
+~~~C#
   bool flag = true;
   char alphabet = 'a';
   int data = 100;

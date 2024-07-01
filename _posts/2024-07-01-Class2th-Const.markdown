@@ -10,11 +10,11 @@ tags: [c# grammar]
 프로그램이 실행되는 동안 더 이상 변경할 수 없는
 메모리 공간입니다.
 
-~~~
+~~~C#
 const int data = 10;
 data = 20;
 Console.WriteLine("상수 data의 값 : " + data);
-ex)상수 data의 값 : 10
+//ex)상수 data의 값 : 10
 ~~~
 
 상수는 메모리 공간을 생성하는 동시에 초기화해야 하며,
