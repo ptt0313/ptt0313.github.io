@@ -1,40 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  {%- include head.html -%}
-</head>
-<body>
-  <header class="texture-{{ site.texture.style }}">
-    <div class="container">
-      {%- include nav.html -%}
-    </div>
-    {%- include post_header.html -%}  
-  </header>
-  <main>
-    <div class="container">
-      <div class="post-container">
-          {{ content }}
-      </div>
+---
+title: ''
+layout: default
+---
 
-        <!-- Configure Disqus -->
-      {%- if site.texture.disqus_shortname -%}
-        <div id="disqus_thread" style="margin-top:25px"></div>
-        <script>
-          var disqus_config = function () {
-            this.page.url = '{{ page.url | absolute_url }}';
-            this.page.identifier = '{{ page.url | absolute_url }}';
-          };
-          (function() {
-            var d = document, s = d.createElement('script');
-            s.src = 'https://{{ site.texture.disqus_shortname }}.disqus.com/embed.js';
-            s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-          })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-      {%- endif -%}
-    </div>
-  </main>
-  {%- include footer.html -%}
-</body>
-</html>
+<main class="content" role="main">
+
+  <article class="post">
+
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <section class="post-meta">
+        <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ post.date | date: "%-d of %b of %Y" }}</time>
+      </section>
+    </header>
+
+    <section class="post-content">
+      {{content}}
+    </section>
+
+    <footer class="post-footer">
+      <figure class="author-image">
+        <span class="img" style="background-image: url('{{ site.author.picture }}')">
+          <span class="hidden">{{ site.author.name }}'s Picture</span>
+        </span>
+      </figure>
+      <section class="author">
+        <h4>{{ site.author.name }}</h4>
+        <p>{{ site.author.description }}</p>
+      </section>
+    </footer>
+
+  </article>
+
+</main>
