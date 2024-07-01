@@ -4,7 +4,7 @@ title: Conditional Statement
 tags: [c# grammar]
 ---
 
-## 조건문
+# 조건문
 
 어떤 조건이 주어줄 때 해당 조건에 따라 동작을 수행하도록 실행하는 명령문입니다.
 
