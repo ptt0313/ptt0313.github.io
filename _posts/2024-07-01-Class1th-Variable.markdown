@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vriable
+tags: [c# grammar]
 ---
 
 ## 변수(Variable)
