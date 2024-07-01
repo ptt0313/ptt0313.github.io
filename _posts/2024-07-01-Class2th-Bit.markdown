@@ -77,3 +77,27 @@ int money = 10; // 0000 1010
 Console.WriteLine("money 변수를 왼쪽으로 2번 shift 연산한 결과" + (money << 2));
 Console.WriteLine("money 변수를 오른쪽으로 2번 shift 연산한 결과" + (money >> 2));
 ~~~
+
+## 실수 형태의 10진수를 2진수로 변환하는 방법
+
+
+10진수 실수 부분을 1.0이 될 때까지 계속 2로 곱한 다음
+결과의 정수 부분을 위에서 아래로 순서대로 정렬합니다.
+
+~~~c#
+float data = 3.2555555f;
+double value = 3.2555555555555555555;
+
+Console.WriteLine("data 변수의 값 : " + data);
+Console.WriteLine("value 변수의 값 : " + value);
+~~~
+
+4 byte 크기의 실수형 자료형은 소수점 이하 6자리까지만 표기하며,
+8 byte 크기의 실수형 자료형은 소수점 이하 15자리까지만 정확도를 표기합니다.
+
+*1.정규화*
+111.01-> 1.1101 ^ 2
+
+*2.bias*
+1.1101 ^ 2 127 + 2 지수
+0.1101 가수
