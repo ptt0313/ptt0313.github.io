@@ -23,7 +23,7 @@ static int Damage()
 함수의 정의에서 전달받은 인수를 함수 내부로 전달하기
 위해 사용하는 변수입니다.
 
-~~~C#
+~~~c#
 static int Damage(int a)
 {
     int damage = a;

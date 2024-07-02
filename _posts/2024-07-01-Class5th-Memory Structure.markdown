@@ -3,7 +3,7 @@ layout: post
 title: Memory Structure
 tags: [c# grammar]
 ---
-## 메모리 구조
+## **메모리 구조**
 
 메모리는 CODE, DATA, HEAP, STACK의 4가지 영역으로 구성되어 있습니다.
 
@@ -26,7 +26,8 @@ tags: [c# grammar]
 
 사용자가 직접 메모리 공간을 할당하고 해제하는 메모리 영역입니다.
 
-## 메모리타입
+## **메모리 타입**
+
 
 ### 값타입
 byte,bool,char,short,int,long,float,double,struct
