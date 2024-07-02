@@ -9,7 +9,7 @@ tags: [c# grammar]
 
 데이터를 저장할 수 있는 메모리 공간을 생성하는 것입니다.
 
-~~~C#
+~~~c#
   bool flag = true;
   char alphabet = 'a';
   int data = 100;
@@ -51,7 +51,7 @@ Camel: countDown 처음 단어의 첫글자는 소문자 뒤 단어 첫글자는
 Pascal : Program 처음단어 첫글자를 대문자로 시작 함수, 클래스에 주로 사용
 Snake: 단어 사이의 띄어쓰기를 _로 표기
 
-#### 자료형
+## 자료형
 
 
 자료형은 각각의 자료형마다 크기가 정해져 있으며, 자료형의 크기는
