@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Struct
+title: Function
 tags: [c# grammar]
 ---
 ## 함수
