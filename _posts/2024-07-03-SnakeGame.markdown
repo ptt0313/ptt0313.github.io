@@ -91,7 +91,7 @@ switch (direction)
 맨 마지막 꼬리를 없애주면 꼬리가 따라오는듯한 움직임을 구현할 수 있습니다.
 자료구조 Queue의 특성을 이용하여 먼저 생성된 꼬리의 삭제를 이동시 마다 반복시킵니다.
 
-!(Alternative Text)https://i.namu.wiki/i/D1oW_IYncpCg5fV3YqX8dKUjfhl2sq6N6VtFZHxTwnb4qDL_A9chdG1_i8DWgVtCmgzfnRCZvAbCrPI0ESFi4vvePZV_QvJociJuimqErKxEWfRXcDm7vWMOmjutWXBQPA7ygxqmZ8umRaVfxm6tWQ.webp
+![Alternative Text](https://i.namu.wiki/i/D1oW_IYncpCg5fV3YqX8dKUjfhl2sq6N6VtFZHxTwnb4qDL_A9chdG1_i8DWgVtCmgzfnRCZvAbCrPI0ESFi4vvePZV_QvJociJuimqErKxEWfRXcDm7vWMOmjutWXBQPA7ygxqmZ8umRaVfxm6tWQ.webp)
 
 ~~~c#
 public void AddTail(int x, int y)
