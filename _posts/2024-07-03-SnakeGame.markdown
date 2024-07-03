@@ -91,7 +91,7 @@ switch (direction)
 맨 마지막 꼬리를 없애주면 꼬리가 따라오는듯한 움직임을 구현할 수 있습니다.
 자료구조 Queue의 특성을 이용하여 먼저 생성된 꼬리의 삭제를 이동시 마다 반복시킵니다.
 
-By <a href="https://upload.wikimedia.org/wikipedia/commons/5/52/Data_Queue.svg" class="internal" title="Data Queue.svg">This Image</a> was created by <a href="https://en.wikipedia.org/wiki/User:Vegpuff" class="extiw" title="en:User:Vegpuff">User:Vegpuff</a>.If you are using the image under the <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/">creative commons share alike license</a> please credit the photo Vegpuff/Wikipedia and include a link to this page. No explicit permission is needed from me, but an email if my work has been of help to you.If you dont want to release your work under a creative commons license, please mail me at <a class="external text" href="https://commons.wikimedia.org/wiki/Special:EmailUser/Vegpuff">vegpuff@gmail.com</a> or catch me at my <a rel="nofollow" class="external text" href="https://twitter.com/alagu">twitter stream</a> for a custom license. - <span class="int-own-work" lang="ko">자작</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7586271">링크</a>
+!(Alternative Text)https://i.namu.wiki/i/D1oW_IYncpCg5fV3YqX8dKUjfhl2sq6N6VtFZHxTwnb4qDL_A9chdG1_i8DWgVtCmgzfnRCZvAbCrPI0ESFi4vvePZV_QvJociJuimqErKxEWfRXcDm7vWMOmjutWXBQPA7ygxqmZ8umRaVfxm6tWQ.webp
 
 ~~~c#
 public void AddTail(int x, int y)
