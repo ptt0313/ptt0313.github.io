@@ -20,7 +20,7 @@ c#에서 Dictionary는 Key와 Value값을 저장하는 데 사용되는 제네�
 1. 크기는 Dictionary가 보유할 수 있는 요소의 수입니다.
 
 | 프로퍼티 | 설명 | 
-|---|---|
+|----|---|
 | Comparer | 키가 같은지 확인하는데 사용됩니다. | 
 | Count | Dictionary의 키/값의 쌍을 가져옵니다. |
 | Item[TKey] | 지정된 Key와 연결된 값을 가져옵니다. |
