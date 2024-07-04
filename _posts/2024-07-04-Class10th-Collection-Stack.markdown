@@ -4,10 +4,10 @@ title: Stack
 tags: [c# grammar]
 ---
 
-# 스택구조
+# 스택 데이터 구조
 
 스택은 연산이 수행되는 특정 순서를 따르는 선형 데이터 구조입니다.
-**LIFO(Last In First Out) 또는 FILO(First In Last Out)**의 특징을 가지고 있습니다.
+**LIFO(Last In First Out) 또는 FILO(First In Last Out)**의 순서를 가지고 있습니다.
 
 ![Stack](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230726165552/Stack-Data-Structure.png)
 
