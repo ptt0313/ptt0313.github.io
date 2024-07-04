@@ -9,7 +9,7 @@ tags: [c# grammar]
 
 컬렉션 종류 :List, Array List, Linked List, Stack, Queue, HashTable, Dictionary 등등
 
-|Interface|                설 명  |구현 클래스|
+|Interface| |구현 클래스|
 |:---|------|---:|
 |List|순서를 유지하며 중복을 허용합니다.|Array List, Linked List, Stack|
 |Set|순서를 유지하지 않으며, 중복을 허용하지 않습니다.|HashSet, TreeSet|
