@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collection
-tags: [c# Grammar]
+tags: [c# grammar]
 ---
 
 # 컬렉션

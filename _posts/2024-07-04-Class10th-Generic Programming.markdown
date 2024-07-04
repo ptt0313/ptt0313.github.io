@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generic Programming
-tags: [c# Grammar]
+tags: [c# grammar]
 ---
 
 ## 일반화 프로그래밍
