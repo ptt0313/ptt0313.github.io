@@ -4,12 +4,12 @@ title: List
 tags: [c# Grammar]
 ---
 
-Array List는 인접한 메모리 위치에 요소를 저장하여 저장된 요소에 대해 쉽게 접근할 수 있는 주소를 생성하고
+**Array List**는 인접한 메모리 위치에 요소를 저장하여 저장된 요소에 대해 쉽게 접근할 수 있는 주소를 생성하고
 이를 통해 특정 인덱스의 요소에 더 빠르게 액세스할 수 있습니다.
 
 ![Array List](https://media.geeksforgeeks.org/wp-content/uploads/Arrays-1.png)
 
-Linked list는 저장 구조가 자유로워 일반적으로 인접한 위치에 저장되지 않으므로 다음 노드에 대한 참조를 제공하는
+**Linked list**는 저장 구조가 자유로워 일반적으로 인접한 위치에 저장되지 않으므로 다음 노드에 대한 참조를 제공하는
 추가 태그와 함께 저장해야 합니다.
 
 ![Linked List](https://media.geeksforgeeks.org/wp-content/uploads/20220829152206/LLdrawio.png)
