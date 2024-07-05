@@ -36,8 +36,6 @@ public class SingleLinkedList<T>
 <details>
 <summary>PushFront</summary>
 
-~~~c#
-
 public void PushFront(T data)
 {
     if (head == null)
@@ -59,14 +57,10 @@ public void PushFront(T data)
     size++;
 }
 
-~~~
-
 </details>
 
 <details>
 <summary>PushBack</summary>
-
-~~~c#
 
 public void PushBack(T data)
 {
@@ -101,14 +95,10 @@ public void PushBack(T data)
     size++;
 }
 
-~~~
-
 </details>
 
 <details>
 <summary>RemoveFront</summary>
-
-~~~c#
 
 public void RemoveFront()
 {
@@ -123,14 +113,10 @@ public void RemoveFront()
     }
 }
 
-~~~
-
 </details>
 
 <details>
 <summary>RemoveBack</summary>
-
-~~~c#
 
 public void RemoveBack()
 {
@@ -158,8 +144,6 @@ public void RemoveBack()
         size--;
     }
 }
-
-~~~
 
 </details>
 
