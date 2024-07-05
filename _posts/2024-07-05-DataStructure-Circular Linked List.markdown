@@ -30,7 +30,7 @@ public class CircularLinkedList<T>
 }
 ~~~
 
-## 원형 연결 리스트 기능 구현
+## 원형 연결 리스트 멤버 함수 구현
 
 ~~~c#
 public void PushBack(T data)

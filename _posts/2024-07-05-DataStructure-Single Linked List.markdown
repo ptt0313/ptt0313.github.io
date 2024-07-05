@@ -31,7 +31,7 @@ public class SingleLinkedList<T>
 
 ~~~
 
-## 데이터 삽입,삭제
+## 단일 연결 리스트 멤버 함수 수현
 
 ### 1. PushFront
 
