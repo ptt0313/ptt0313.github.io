@@ -9,7 +9,7 @@ category: DataStructure
 해쉬 테이블은 빠른 접근이 가능한 방식으로 데이터를 효율적으로 저장하고 검색하는 기본적인 데이터 구조입니다.   
 해시 함수를 사용하여 해시 테이블의 특정 인덱스에 데이터를 매핑하는 것을 포함하며, 이를 통해 키에 따라 정보를 빠르게 검색할 수 있습니다.
 
-![해쉬 테이블](https://media.geeksforgeeks.org/wp-content/uploads/20200609180838/HashingDataStructure-min.png)
+![해쉬 테이블](https://media.geeksforgeeks.org/wp-content/uploads/20240517110718/Introduction-to-Hashing.webp)
 
 ~~~c#
  public class HashTable<KEY, VALUE>
