@@ -110,8 +110,10 @@ Damage(out health);
 Console.WriteLine("health 변수의 값 : " + health);
 ~~~
 
- ### in 키워드
- 데이터를 읽기 전용으로 사용하는 매개 변수 한정자입니다.
+### in 키워드
+
+데이터를 읽기 전용으로 사용하는 매개 변수 한정자입니다.
+
 ~~~c#
 static void Printf(in int value)
 {
