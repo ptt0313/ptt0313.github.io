@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Single Linked List
+title: Double Linked List
 category: Data Structure
 ---
 

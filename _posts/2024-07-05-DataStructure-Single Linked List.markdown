@@ -6,7 +6,7 @@ category: Data Structure
 
 ## 단일 연결 리스트
 
-노드라는 구조체에 데이터와 다음 노드의 포인터를 가지는 자료구조입니다.
+단일 연결 리스트 : 노드라는 구조체에 데이터와 다음 노드의 포인터를 가지는 자료구조입니다.
 마지막 노드의 다음 노드를 가리키는 포인터는 NULL이 됩니다.
 
 ![단일 연결 리스트](https://media.geeksforgeeks.org/wp-content/uploads/20240219155344/Singly-Linked-List.webp)
