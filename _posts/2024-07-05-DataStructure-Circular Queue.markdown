@@ -6,7 +6,7 @@ category: DataStructure
 
 ## 원형 큐 자료구조
 
-원형 큐 : 큐의 마지막 요소가 큐의 첫 번째 요소에 연결된 자료구조입니다.
+원형 큐 : 큐의 마지막 요소가 큐의 첫 번째 요소에 연결된 자료구조입니다.  
 선형 큐의 비효율적인 메모리 관리때문에 만들어졌습니다.
 
 ![원형 큐](https://media.geeksforgeeks.org/wp-content/uploads/Circular-queue.png)

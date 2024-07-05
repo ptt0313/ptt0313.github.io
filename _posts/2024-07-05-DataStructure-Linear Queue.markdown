@@ -6,8 +6,8 @@ category: DataStructure
 
 ## 선형 큐 자료구조
 
-선형 큐 : 데이터가 FIFO(First In First Out)형식으로 저장되는 자료구조입니다.
-Rear가 배열의 마지막에 도달하면 배열의 빈 부분있어도 더이상 삽입연산을 하지 못합니다.
+선형 큐 : 데이터가 FIFO(First In First Out)형식으로 저장되는 자료구조입니다.  
+Rear가 배열의 마지막에 도달하면 배열의 빈 부분있어도 더이상 삽입연산을 하지 못합니다.  
 이는 메모리의 비효율적인 관리로 이어집니다.
 
 ![선형 큐](https://media.geeksforgeeks.org/wp-content/uploads/20220816162225/Queue.png)
