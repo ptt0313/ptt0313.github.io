@@ -12,6 +12,24 @@ Rear가 배열의 마지막에 도달하면 배열의 빈 부분있어도 더이
 
 ![선형 큐](https://media.geeksforgeeks.org/wp-content/uploads/20220816162225/Queue.png)
 
+~~~c#
+class LinearQueue<T>
+{
+    private T Error;
+    int front;
+    int rear;
+    T[] array;
+    readonly int arraySize;
+    public LinearQueue()
+    {
+        front = 0;
+        rear = 0;
+        arraySize = 5;
+        array = new T[arraySize];
+    }
+}
+~~~
+
 ## 선형 큐 멤버 함수 구현
 
 ~~~c#
