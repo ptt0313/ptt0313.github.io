@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Single Linked List
-category: Data Structure
+category: 자료구조
 ---
 
 ## 단일 연결 리스트

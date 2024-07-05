@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dictionary
-category: c# grammar
+category: c#
 ---
 
 # Dictionary

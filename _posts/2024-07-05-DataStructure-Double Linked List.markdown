@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Double Linked List
-category: Data Structure
+category: 자료구조
 ---
 
 ## 양방향 연결 리스트

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Constructor
-category: c# grammar
+category: c#
 ---
 
 ## 생성자

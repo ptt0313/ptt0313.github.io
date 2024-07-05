@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anonymous Method
-category: c# grammar
+category: c#
 ---
 
 ## 무명 메서드

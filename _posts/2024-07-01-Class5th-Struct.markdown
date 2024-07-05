@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Struct
-category: c# grammar
+category: c#
 ---
 ## 구조체
 

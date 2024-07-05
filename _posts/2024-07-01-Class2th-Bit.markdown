@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bit
-category: c# grammar
+category: c#
 ---
 
 ## 비트

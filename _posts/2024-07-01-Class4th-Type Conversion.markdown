@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Type Conversion
-category: c# grammar
+category: c#
 ---
 
 ## 자료형 변환

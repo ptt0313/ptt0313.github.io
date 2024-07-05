@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Const
-category: c# grammar
+category: c#
 ---
 
 ## 상수

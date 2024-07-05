@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iteration Statement
-category: c# grammar
+category: c#
 ---
 
 ## 반복문

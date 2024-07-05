@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stack
-category: c# grammar
+category: c#
 ---
 
 # 스택 데이터 구조

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Copy
-category: c# grammar
+category: c#
 ---
 
 ## 얕은 복사

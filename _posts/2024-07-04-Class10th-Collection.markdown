@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collection
-category: c# grammar
+category: c#
 ---
 
 # 컬렉션
