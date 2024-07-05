@@ -33,7 +33,7 @@ public class SingleLinkedList<T>
 
 ## 데이터 삽입,삭제
 
-1. PushFront
+### 1. PushFront
 
 ~~~c#
 
@@ -58,7 +58,7 @@ public void PushFront(T data)
     size++;
 }
 ~~~
-1. PushBack
+### 2. PushBack
 
 ~~~c#
 
@@ -95,7 +95,7 @@ public void PushBack(T data)
     size++;
 }
 ~~~
-1. RemoveFront
+### 3. RemoveFront
 
 ~~~c#
 
@@ -112,7 +112,7 @@ public void RemoveFront()
     }
 }
 ~~~
-1. RemoveBack
+### 4. RemoveBack
 
 ~~~c#
 
