@@ -12,6 +12,7 @@ tags: [자료구조]
 ![단일 연결 리스트](https://media.geeksforgeeks.org/wp-content/uploads/20240219155344/Singly-Linked-List.webp)
 
 ~~~c#
+
 public class SingleLinkedList<T>
 {
     Node head;
@@ -27,6 +28,7 @@ public class SingleLinkedList<T>
         public Node next;
     }
 }
+
 ~~~
 
 ## 데이터 삽입,삭제
@@ -35,6 +37,7 @@ public class SingleLinkedList<T>
 <summary>PushFront</summary>
 
 ~~~c#
+
 public void PushFront(T data)
 {
     if (head == null)
@@ -55,13 +58,16 @@ public void PushFront(T data)
     }
     size++;
 }
+
 ~~~
+
 </details>
 
 <details>
 <summary>PushBack</summary>
 
 ~~~c#
+
 public void PushBack(T data)
 {
     if (head == null)
@@ -94,13 +100,16 @@ public void PushBack(T data)
     }
     size++;
 }
+
 ~~~
+
 </details>
 
 <details>
 <summary>RemoveFront</summary>
 
 ~~~c#
+
 public void RemoveFront()
 {
     if (head != null)
@@ -113,13 +122,16 @@ public void RemoveFront()
         Console.WriteLine("Linked List is Empty");
     }
 }
+
 ~~~
+
 </details>
 
 <details>
 <summary>RemoveBack</summary>
 
 ~~~c#
+
 public void RemoveBack()
 {
     if (head == null)
@@ -146,6 +158,8 @@ public void RemoveBack()
         size--;
     }
 }
+
 ~~~
+
 </details>
 
