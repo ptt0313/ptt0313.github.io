@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Single Linked List
-tags: [자료구조]]
+tags: [자료구조]
 ---
 
 ## 단일 연결 리스트
@@ -34,7 +34,6 @@ public class SingleLinkedList<T>
 <details>
 <summary>PushFront</summary>
 
-## PushFront
 ~~~c#
 public void PushFront(T data)
 {
@@ -62,7 +61,6 @@ public void PushFront(T data)
 <details>
 <summary>PushBack</summary>
 
-## PushBack
 ~~~c#
 public void PushBack(T data)
 {
@@ -102,7 +100,6 @@ public void PushBack(T data)
 <details>
 <summary>RemoveFront</summary>
 
-## RemoveFront
 ~~~c#
 public void RemoveFront()
 {
@@ -122,7 +119,6 @@ public void RemoveFront()
 <details>
 <summary>RemoveBack</summary>
 
-## RemoveBack
 ~~~c#
 public void RemoveBack()
 {
