@@ -36,6 +36,7 @@ public class SingleLinkedList<T>
 <details>
 <summary>PushFront</summary>
 
+~~~c#
 public void PushFront(T data)
 {
     if (head == null)
@@ -56,12 +57,13 @@ public void PushFront(T data)
     }
     size++;
 }
-
+~~~
 </details>
 
 <details>
 <summary>PushBack</summary>
 
+~~~
 public void PushBack(T data)
 {
     if (head == null)
@@ -94,9 +96,10 @@ public void PushBack(T data)
     }
     size++;
 }
-
+~~~
 </details>
 
+~~~c#
 <details>
 <summary>RemoveFront</summary>
 
@@ -112,12 +115,13 @@ public void RemoveFront()
         Console.WriteLine("Linked List is Empty");
     }
 }
-
 </details>
+~~~
 
 <details>
 <summary>RemoveBack</summary>
 
+```c#
 public void RemoveBack()
 {
     if (head == null)
@@ -144,6 +148,6 @@ public void RemoveBack()
         size--;
     }
 }
-
+```
 </details>
 
