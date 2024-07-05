@@ -76,3 +76,7 @@ public int Count()
     return rear - front;
 }
 ~~~
+
+
+___
+> 참고 자료 : https://www.geeksforgeeks.org/basic-operations-for-queue-in-data-structure/?ref=header_search
