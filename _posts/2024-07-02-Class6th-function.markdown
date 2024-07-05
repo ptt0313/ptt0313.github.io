@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Function
-tags: [c# grammar]
+category: c# grammar
 ---
 ## 함수
 

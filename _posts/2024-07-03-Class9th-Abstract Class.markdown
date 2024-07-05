@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Abstract Class
-tags: [c# grammar]
+category: c# grammar
 ---
 
 ## 추상 클래스(Abstract Class)

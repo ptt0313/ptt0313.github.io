@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memory Structure
-tags: [c# grammar]
+category: c# grammar
 ---
 ## **메모리 구조**
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: boxing unboxing
-tags: [c# grammar]
+category: c# grammar
 ---
 ## 박싱과 언박싱
 

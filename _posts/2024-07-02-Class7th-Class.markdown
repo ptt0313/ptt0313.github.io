@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Class
-tags: [c# grammar]
+category: c# grammar
 ---
 ## 클래스
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Indexer
-tags: [c# grammar]
+category: c# grammar
 ---
 
 # 인덱서

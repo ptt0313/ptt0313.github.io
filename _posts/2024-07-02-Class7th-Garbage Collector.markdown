@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Garbage Collector
-tags: [c# grammar]
+category: c# grammar
 ---
 
 ## 가비지 컬렉터

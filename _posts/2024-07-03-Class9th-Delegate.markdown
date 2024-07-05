@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Delegate
-tags: [c# grammar]
+category: c# grammar
 ---
 
 # 대리자(Delegate)

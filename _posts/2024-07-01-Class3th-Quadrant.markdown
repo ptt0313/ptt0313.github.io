@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quadrant
-tags: [c# grammar]
+category: c# grammar
 ---
 
 ## 사분면

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: access modifiers
-tags: [c# grammar]
+category: c# grammar
 ---
 ## 접근 지정자
 

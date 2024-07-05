@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Single Linked List
-tags: [자료구조]
+category: 자료구조
 ---
 
 ## 단일 연결 리스트
@@ -33,10 +33,10 @@ public class SingleLinkedList<T>
 
 ## 데이터 삽입,삭제
 
-<details>
-<summary>PushFront</summary>
+1. PushFront
 
 ~~~c#
+
 public void PushFront(T data)
 {
     if (head == null)
@@ -58,12 +58,10 @@ public void PushFront(T data)
     size++;
 }
 ~~~
-</details>
+1. PushBack
 
-<details>
-<summary>PushBack</summary>
+~~~c#
 
-~~~
 public void PushBack(T data)
 {
     if (head == null)
@@ -97,11 +95,9 @@ public void PushBack(T data)
     size++;
 }
 ~~~
-</details>
+1. RemoveFront
 
 ~~~c#
-<details>
-<summary>RemoveFront</summary>
 
 public void RemoveFront()
 {
@@ -115,13 +111,11 @@ public void RemoveFront()
         Console.WriteLine("Linked List is Empty");
     }
 }
-</details>
 ~~~
+1. RemoveBack
 
-<details>
-<summary>RemoveBack</summary>
+~~~c#
 
-```c#
 public void RemoveBack()
 {
     if (head == null)
@@ -148,6 +142,7 @@ public void RemoveBack()
         size--;
     }
 }
-```
-</details>
+~~~
 
+___
+> 참고 자료 : (https://www.geeksforgeeks.org/introduction-to-singly-linked-list/?ref=gcse_ind)

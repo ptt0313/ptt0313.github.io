@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Property
-tags: [c# grammar]
+category: c# grammar
 ---
 
 ## 프로퍼티

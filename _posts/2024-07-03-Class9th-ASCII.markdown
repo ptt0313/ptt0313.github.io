@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ASCII
-tags: [c# grammar]
+category: c# grammar
 ---
 
 ## ASCII 코드

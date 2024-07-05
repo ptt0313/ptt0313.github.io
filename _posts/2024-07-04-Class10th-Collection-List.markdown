@@ -1,7 +1,7 @@
 ---
 layout: post
 title: List
-tags: [c# grammar]
+category: c# grammar
 ---
 
 **Array List**는 인접한 메모리 위치에 요소를 저장하여 저장된 요소에 대해 쉽게 접근할 수 있는 주소를 생성하고

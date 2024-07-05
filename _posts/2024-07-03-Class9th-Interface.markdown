@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interface
-tags: [c# grammar]
+category: c# grammar
 ---
 
 ## Interface

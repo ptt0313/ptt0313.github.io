@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOLID Principle
-tags: [CS]
+category: CS
 ---
 
 ## 솔리드 원칙

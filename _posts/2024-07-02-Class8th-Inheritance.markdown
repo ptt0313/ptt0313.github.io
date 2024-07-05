@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inheritance
-tags: [c# grammar]
+category: c# grammar
 ---
 
 ## 상속

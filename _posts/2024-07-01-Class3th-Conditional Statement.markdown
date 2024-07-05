@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conditional Statement
-tags: [c# grammar]
+category: c# grammar
 ---
 
 # 조건문

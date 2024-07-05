@@ -1,7 +1,7 @@
 ---
 layout: post
 title: test
-tags: [test]
+category: test
 ---
 
 # 1

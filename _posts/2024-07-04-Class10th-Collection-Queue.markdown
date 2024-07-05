@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Queue
-tags: [c# grammar]
+category: c# grammar
 ---
 
 # 큐 데이터 구조

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Polymorphism
-tags: [c# grammar]
+category: c# grammar
 ---
 
 ## 다형성

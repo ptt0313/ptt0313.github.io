@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Operator Overloading
-tags: [c# grammar]
+category: c# grammar
 ---
 
 ## 연산자 오버로딩

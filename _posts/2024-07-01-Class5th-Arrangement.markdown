@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arrangement
-tags: [c# grammar]
+category: c# grammar
 ---
 ## 배열
 같은 자료형의 변수들로 이루어진 유한 집합입니다.
