@@ -7,7 +7,7 @@ category: Algorithm
 
 특정 크기의 입력을 기준으로 할 때 필요한 연산 횟수를 의미합니다.
 
-![시간복잡도 그래프](public/img/TimeComplexity.png)
+![시간복잡도 그래프](public/img/TimeComplexity.jpg)
 
 1. 상수 시간 O(1)
 입력 크기와 상관없이 일정한 시간 복잡도를 가지는 시간입니다.
