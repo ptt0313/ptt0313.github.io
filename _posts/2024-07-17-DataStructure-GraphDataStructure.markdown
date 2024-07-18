@@ -19,12 +19,15 @@ category: DataStructure
 ### 그래프의 종류
 
 * 무방향 그래프 : 간선에 방향이 없는 그래프입니다. 특징: 대칭 행렬
+
 ![무방향그래프](https://media.geeksforgeeks.org/wp-content/uploads/20230727130331/Undirected_to_Adjacency_matrix.png)    
 
 * 방향 그래프 : 진입차수(자신에 들어오는 차수의 갯수), 진출차수(다른 정점을 향하는 차수의 갯수), 특징: 비대칭 행렬
+
 ![방향 그래프](https://media.geeksforgeeks.org/wp-content/uploads/20230727130528/Directed_to_Adjacency_matrix.png)    
 
 * 가중치 그래프 : 간선에 가중치가 있는 그래프입니다.
+
 ![가중치 그래프](https://media.geeksforgeeks.org/wp-content/uploads/20220519165117/weightedgraph.png)    
 
 
