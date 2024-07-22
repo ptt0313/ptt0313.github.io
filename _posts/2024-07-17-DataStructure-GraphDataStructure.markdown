@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Graph Data Structure
+title: Graph Adjacency Matrix
 category: DataStructure
 ---
-# 그래프 자료 구조
+# 그래프 인접 행렬
 
 요소들이 서로 복잡하게 연결되어 있는 관계를 표현하는 자료구조입니다.   
 정점과 간선들의 집합으로 구성되어 있습니다.    
