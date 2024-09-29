@@ -1,0 +1,15 @@
+---
+layout: post
+title: Dodge
+date: 2020-01-02 19:20:23 +0900
+category: game
+---
+## 닷지 과제
+
+___
+<iframe width="1250" height="703" src="https://www.youtube.com/embed/OBm-H-9HPt8" title="닷지과제" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
+
+### 설명
+
+랜덤한 위치에서 탄환이 생성되어 플레이어에게 날라오는 닷지 과제입니다.
