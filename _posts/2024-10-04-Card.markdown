@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Card
-category: game
+category: Test
 ---
 ## 카드 맞추기
 

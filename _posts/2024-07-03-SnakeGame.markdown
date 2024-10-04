@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SnakeGame
-category: game
+category: Test
 ---
 ## c#콘솔 뱀게임
 
